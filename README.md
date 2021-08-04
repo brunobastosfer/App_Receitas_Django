@@ -1,0 +1,1 @@
+# App_Receitas_Django
